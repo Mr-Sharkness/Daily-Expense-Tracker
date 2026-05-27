@@ -31,7 +31,7 @@
 
 ### Вариант 1: Запуск готового `.exe` (Рекомендуется для пользователей)
 Вам **не нужно** устанавливать Python. 
-1. Перейдите в раздел **[Releases](https://github.com/ваш-юзернейм/название-репозитория/releases)** на панели справа в этом репозитории.
+1. Перейдите в раздел **[Releases](https://github.com/Mr-Sharkness/Daily-Expense-Tracker/releases)** на панели справа в этом репозитории.
 2. Скачайте последнюю версию файла `expense_tracker.exe` (или `contact_book.exe`).
 3. Запустите скачанный файл двойным кликом.
 
@@ -42,7 +42,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone [https://github.com/ваш-юзернейм/daily-expense-tracker.git](https://github.com/ваш-юзернейм/daily-expense-tracker.git)
+git clone [https://github.com/Mr-Sharkness/daily-expense-tracker.git](https://github.com/Mr-Sharkness/daily-expense-tracker.git)
 
 # Перейти в папку проекта
 cd daily-expense-tracker

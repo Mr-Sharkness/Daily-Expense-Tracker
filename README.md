@@ -42,7 +42,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone [https://github.com/Mr-Sharkness/daily-expense-tracker.git](https://github.com/Mr-Sharkness/daily-expense-tracker.git)
+git clone https://github.com/Mr-Sharkness/daily-expense-tracker.git
 
 # Перейти в папку проекта
 cd daily-expense-tracker

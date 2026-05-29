@@ -48,4 +48,4 @@ git clone https://github.com/Mr-Sharkness/daily-expense-tracker.git
 cd daily-expense-tracker
 
 # Запустить приложение
-python Daily Expense Tracker.py
+py "Daily Expense Tracker.py"
